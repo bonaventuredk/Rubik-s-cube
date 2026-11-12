@@ -17,6 +17,8 @@ DOHEMETO Bonaventure
 
 ## Introduction
 
+To start, this idea gave to me when I'm trying to solve the rubik's cube for the fast time, many years ago. I question myself about the mathematics behind this game, the mathematics aspects who can help to know and improve with the best comprehension the game. In this project, I will present all aspect that I study personnally and also the some tips that I propose to solved it. Let's begin with the number of differents patterns and probability by accident 😃 (starting by one face and so on).  
+
 ## Probability Aspects
 
 ## Group Theory
