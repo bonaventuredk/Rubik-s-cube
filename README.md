@@ -1,4 +1,4 @@
-# Rubik's Cube
+# Rubik's Cube (in progress...)
 The mathematics behind the Rubik's cube... 
 
 ## Author
